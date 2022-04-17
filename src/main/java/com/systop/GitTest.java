@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("hello, git3");
         System.out.println("这是 hot-fix 分支");
         System.out.println("这是 master 合并冲突");
+        System.out.println("这是 hot-fix 合并冲突");
     }
 }
